@@ -1,0 +1,8 @@
+names:
+- eaear
+- eyeee
+- mouthhz
+- nosebb
+nc: 4
+train: facets-5/train/images
+val: facets-5/valid/images
